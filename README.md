@@ -16,7 +16,8 @@ The repository is organized as follows:
   - `prices.txt`: A data file containing fixed prices for grocery items.
 - `README.md`: This README file.
 
-In the `GroceryStore` class, we demonstrate the creation of grocery products (Bananas and Apples) using the respective factories. Here's how it works:
+In the `GroceryStore` class, we demonstrate the creation of grocery products (Bananas, Apples, and Oranges) using the respective factories. Here's how it works:
+
 ![](/images/testclass.png)
 
 Example Execution Screenshots
