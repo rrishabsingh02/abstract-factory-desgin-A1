@@ -14,11 +14,18 @@ public class GroceryStore {
         GroceryProductFactory appleFactory = new AppleFactory();
         GroceryProduct apple = appleFactory.createProduct();
 
+        // create an Orange via OrangeFactory
+        GroceryProductFactory orangeFactory = new OrangeFactory();
+        GroceryProduct orange = orangeFactory.createProduct();
+
         // display product and price
         System.out.println("Product: " + banana.getDescription());
         System.out.println("Price: $" + banana.getPrice());
 
         System.out.println("Product: " + apple.getDescription());
         System.out.println("Price: $" + apple.getPrice());
+
+        System.out.println("Product: " + orange.getDescription());
+        System.out.println("Price: $" + orange.getPrice());
     }
 }
