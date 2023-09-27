@@ -40,6 +40,6 @@ As you can see, the prices are pulled and dislplayed from the datafile 'prices.t
 
 ![](/images/prices.png)
 
-Since there is no data for the price of Oranges, it displays a default value set for oranges as shown in the Orange.java class
+Since there is no data for the price of Oranges, it displays a default value set for oranges as shown in the Orange.java class:
 
 ![](/images/orange.png)
