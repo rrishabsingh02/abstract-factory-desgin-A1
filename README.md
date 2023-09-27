@@ -13,8 +13,11 @@ The repository is organized as follows:
   - `AppleFactory.java`: The concrete factory for creating Apples.
   - `OrangeFactory.java`: The concrete factory for creating Oranges.
   - `GroceryStore.java`: The test driver class for demonstrating the code.
-- `prices.txt`: A data file containing fixed prices for grocery items.
+  - `prices.txt`: A data file containing fixed prices for grocery items.
 - `README.md`: This README file.
+
+In the `GroceryStore` class, we demonstrate the creation of grocery products (Bananas and Apples) using the respective factories. Here's how it works:
+![](/images/testclass.png)
 
 Example Execution Screenshots
 
