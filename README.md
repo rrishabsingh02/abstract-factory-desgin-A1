@@ -1,5 +1,7 @@
 # abstract-factory-desgin-A1
 
+UML DIAGRAM:
+![](assets/images/assignment1uml.png)
 
 The repository is organized as follows:
 
