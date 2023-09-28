@@ -18,7 +18,7 @@ The repository is organized as follows:
 
 In the `GroceryStore` class, we demonstrate the creation of grocery products (Bananas, Apples, and Oranges) using the respective factories. Here's how it works:
 
-![](/images/testclass.png)
+![](assets/images/testclass.png)
 
 Example Execution Screenshots
 
@@ -35,12 +35,12 @@ Product: Orange
 Price: $5.0
 ```
 
-![](/images/result.png)
+![](assets/images/result.png)
 
 As you can see, the prices are pulled and dislplayed from the datafile 'prices.txt':
 
-![](/images/prices.png)
+![](assets/images/prices.png)
 
 Since there is no data for the price of Oranges, it displays a default value set for oranges as shown in the Orange.java class:
 
-![](/images/orange.png)
+![](assets/images/orange.png)
