@@ -6,7 +6,7 @@ import java.io.IOException;
 public class Orange implements GroceryProduct {
     @Override
     public String getDescription() {
-        return "Banana";
+        return "Orange";
     }
 
     @Override
