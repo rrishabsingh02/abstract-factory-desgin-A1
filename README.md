@@ -1,6 +1,12 @@
-# Abstract Factory Design - Assignment 1
+# SOFE3650U: ASSIGNMENT 1
+# Abstract Factory Design Implemenation
+# GROUP MEMBERS:
+Rishab Singh(100--------)
 
-## UML Diagram
+Malyka Sardar(100752640)
+
+
+# Project setup
 
 ![UML Diagram](assets/images/assignment1uml.png)
 
