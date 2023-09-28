@@ -1,11 +1,14 @@
-# abstract-factory-design-A1
+# Abstract Factory Design - Assignment 1
 
-UML DIAGRAM:
-![](assets/images/assignment1uml.png)
+## UML Diagram
+
+![UML Diagram](assets/images/assignment1uml.png)
+
+## Repository Structure
 
 The repository is organized as follows:
 
-- `src/`: This folder contains the Java source code for the project.
+- **src/:** This folder contains the Java source code for the project.
   - `GroceryProduct.java`: The interface for grocery products.
   - `Banana.java`: The concrete class for Bananas.
   - `Apple.java`: The concrete class for Apples.
@@ -15,11 +18,14 @@ The repository is organized as follows:
   - `AppleFactory.java`: The concrete factory for creating Apples.
   - `OrangeFactory.java`: The concrete factory for creating Oranges.
   - `GroceryStore.java`: The test driver class for demonstrating the code.
-- `bin/`: This folder contains the Java class files.
-- `prices.txt`: A data file containing fixed prices for grocery items.
-- `README.md`: This README file.
 
-In the `GroceryStore` class, we demonstrate the creation of grocery products (Bananas, Apples, and Oranges) using the respective factories. Here's how it works:
+- **bin/:** This folder contains the Java class files.
+- **prices.txt:** A data file containing fixed prices for grocery items.
+- **README.md:** This README file.
+
+## Test Methods
+
+In the `GroceryStore` class, we demonstrate the creation of grocery products
 
 ![](assets/images/testclass.png)
 
