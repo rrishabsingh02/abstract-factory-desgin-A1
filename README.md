@@ -1,4 +1,4 @@
-# abstract-factory-desgin-A1
+# abstract-factory-design-A1
 
 UML DIAGRAM:
 ![](assets/images/assignment1uml.png)
