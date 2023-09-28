@@ -1,11 +1,14 @@
 # SOFE3650U: ASSIGNMENT 1
-# Abstract Factory Design Implemenation
+
 # GROUP MEMBERS:
 ```
 Rishab Singh   -  100787473
 Rupam Mittal   -  100640634
 Malyka Sardar  -  100752640
 ```
+
+# Abstract Factory Design Implemenation
+
 
 # Project setup
 
