@@ -1,6 +1,5 @@
 package src;
 
-
 public class Orange implements GroceryProduct {
     @Override
     public String getDescription() {

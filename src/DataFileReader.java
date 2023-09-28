@@ -1,3 +1,5 @@
+package src;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -14,7 +16,7 @@ public class DataFileReader {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] parts = line.split(" ");
-                if (parts.length == 2 && parts[0].equals(productName)) {
+                if (parts.length == 3 && parts[0].equals(productName)) {
                     return Double.parseDouble(parts[1]);
                 }
             }
